@@ -9,7 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/bitmakerlabs/how_to_test_robot.git"
   },
-  "author": "",
+  "author": "abigail",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bitmakerlabs/how_to_test_robot/issues"
@@ -17,5 +17,7 @@
   "homepage": "https://github.com/bitmakerlabs/how_to_test_robot#readme",
   "devDependencies": {
     "jest": "^23.6.0"
-  }
+  },
+  "main": "robot.js",
+  "dependencies": {}
 }

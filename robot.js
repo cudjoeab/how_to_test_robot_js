@@ -1,4 +1,4 @@
-function newRobot(needs_repairs, foreign_model, vintage_model) {
+function newRobot(needs_repairs, foreign_model, vintage_model, todos) {
   return {
     needs_repairs: needs_repairs,
     foreign_model: foreign_model,
